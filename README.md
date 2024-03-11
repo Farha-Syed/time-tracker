@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-configure poll scm 
+configure poll scm trigger only changes occur
